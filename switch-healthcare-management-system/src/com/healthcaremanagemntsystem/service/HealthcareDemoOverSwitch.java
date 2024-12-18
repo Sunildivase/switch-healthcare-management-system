@@ -138,7 +138,7 @@ public class HealthcareDemoOverSwitch {
             doctor.setDoctorId(doctorId);
             doctor.setfName(fname);
             doctor.setlName(lname);
-            
+
         }
     }
 
