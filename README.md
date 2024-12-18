@@ -1,2 +1,2 @@
 # switch-healthcare-management-system
-Using switch statement 
+Using switch statement functionality
