@@ -1,4 +1,4 @@
-package com.healthcaremanagemntsystem.model;
+package arrayhealthcaremanagementsystem.model;
 
 public class Person {
 
@@ -14,7 +14,7 @@ public class Person {
 
     @Override
     public String toString() {
-        return "HealthcareDemoOverSwitch{" +
+        return "Person{" +
                 "id=" + id +
                 ", type='" + type + '\'' +
                 ", fName='" + fName + '\'' +
