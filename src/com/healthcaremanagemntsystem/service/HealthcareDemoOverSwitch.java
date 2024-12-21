@@ -64,6 +64,10 @@ public class HealthcareDemoOverSwitch {
                     System.out.println("create billing"+createBilling);
                     break;
 
+                default:
+                    System.out.println("invalid option");
+                    break;
+
             }
 
 
